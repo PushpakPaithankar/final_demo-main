@@ -1,5 +1,5 @@
 #1.create a project and export it into a variable(project creation- manual)
-export PROJECT_ID="ment360live-beta
+export PROJECT_ID="trial-liveability-123"
       
 #2.Sets the project,location &dataset
 gcloud config set project ${PROJECT_ID}
